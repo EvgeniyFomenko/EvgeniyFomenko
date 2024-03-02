@@ -1,6 +1,6 @@
 # Hi there, I'm [Evgeny](https://evgeniyfomenko.github.io/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 ### Software developer from Russia 🇷🇺
-- ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) I’m interested java backend
+-  I’m interested ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) backend
 - 🌱 I’m currently search work
 - 💞️ I’m looking to collaborate on developers like me
 - 📫 How to reach me gant26@rambler.ru and telegramm @cartman16ru
