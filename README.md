@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @EvgeniyFomenko
+# Hi there, I'm [Evgeny](https://evgeniyfomenko.github.io/) ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Computer science student, IT news writer from Russia 🇷🇺
 - 👀 I’m interested in software development
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on developers like me
